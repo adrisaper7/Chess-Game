@@ -62,3 +62,8 @@ span[id*=p-]{
 .color-body-white{
     background-color: white !important;
 }
+
+#titulo{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
